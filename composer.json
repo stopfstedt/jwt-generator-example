@@ -1,0 +1,6 @@
+{
+  "name" : "stopfstedt/jwt-generator-example",
+  "require-dev": {
+    "firebase/php-jwt": "^2.2"
+  }
+}
